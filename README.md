@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajendra Prasad Issar</h1>
-<h3 align="center">A passionate Data scientist</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <img align ="right" alt = "coding" width = "400" src ="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" >
 
