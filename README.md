@@ -45,7 +45,7 @@
 
 <img align="right" alt="AI Animation" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-🎓 &nbsp;**Master's Student** in AI, Machine Learning & Data Science at **Indiana State University**, Terre Haute, IN
+🎓 &nbsp;**Master's Student** in AI, Machine Learning & Data Science at **[EPITA – School of Engineering and Computer Science](https://www.epita.fr)**, Paris, France
 
 🤖 &nbsp;**Machine Learning Engineer** passionate about building production-ready intelligent systems
 
@@ -130,8 +130,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-> ⚡ *Stats are fetched live — if cards show broken, reload the page after 60 seconds (GitHub CDN cache)*
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajendrapissar&show_icons=true&theme=tokyonight&hide_border=false&border_color=00BFFF&border_radius=12&count_private=true&include_all_commits=true" />
