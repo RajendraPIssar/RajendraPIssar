@@ -1,194 +1,146 @@
-<h1 align="center">Hi 👋, I'm Rajendra Prasad Issar</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajendra+Prasad+Issar;AI+%2F+ML+Engineer+%7C+Data+Scientist;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+Intelligent+Systems+that+Matter" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">
-AI/ML & Data Science Master's Student | Machine Learning Engineer | Data Analyst
+  🎓 AI/ML & Data Science Master's Student &nbsp;|&nbsp; 🤖 Machine Learning Engineer &nbsp;|&nbsp; 📊 Data Scientist
 </h3>
 
-<img align="right" alt="coding" width="380" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajendrapissar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rajendrapissar?label=Followers&style=flat-square&color=00BFFF" alt="GitHub Followers" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/rajendrapissar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/rajendraprasadissar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://rajendrapissar.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:issarrajendraprasad@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+```python
+class RajendraPrasadIssar:
+    def __init__(self):
+        self.role        = "AI/ML Engineer | Data Scientist"
+        self.education   = "Master's in AI, Machine Learning & Data Science"
+        self.interests   = [
+            "Deep Learning", "NLP & LLMs", "Computer Vision",
+            "Explainable AI (XAI)", "Healthcare AI", "Data Analytics"
+        ]
+        self.currently_building = [
+            "AI-driven Healthcare Solutions",
+            "Medical Imaging Systems",
+            "NLP & LLM Applications",
+            "Explainable AI Pipelines"
+        ]
+        self.currently_learning = [
+            "Advanced Deep Learning Architectures",
+            "Large Language Models (LLMs)",
+            "OpenNMT & Neural Machine Translation"
+        ]
+        self.contact = "issarrajendraprasad@gmail.com"
+
+    def mission(self):
+        return "Transforming data into intelligent solutions through AI & ML."
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajendrapissar&label=Profile%20views&color=0e75b6&style=flat" alt="rajendrapissar" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="center">
-
-<a href="https://github.com/rajendrapissar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rajendraprasadissar/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:issarrajendraprasad@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://rajendrapissar.github.io/Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🚀 About Me
-
-🎓 Master's Student specializing in:
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-
-💡 Passionate about building intelligent systems using:
-
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Explainable AI (XAI)
-- Data Analytics
-
-🔬 Currently working on:
-
-- AI-driven Healthcare Solutions
-- Medical Imaging Systems
-- Explainable AI Models
-- Intelligent NLP Applications
-
-🌱 Currently learning:
-
-- Advanced Deep Learning
-- OpenNMT
-- Large Language Models (LLMs)
-
-📫 Reach me at:
-
-📧 **issarrajendraprasad@gmail.com**
-
-🌐 Portfolio:
-**https://rajendrapissar.github.io/Portfolio/**
-
----
-
-# 🌐 Connect With Me
+### 🤖 AI / ML / Data Science
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/rajendraprasadissar/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="45" width="45"/>
-</a>
-
-<a href="https://github.com/rajendrapissar" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="45" width="45"/>
-</a>
-
-<a href="mailto:issarrajendraprasad@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="45" width="45"/>
-</a>
-
-<a href="https://rajendrapissar.github.io/Portfolio/" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="45" width="45"/>
-</a>
-
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
----
-
-# 🛠️ Languages & Tools
+### 🌐 Web, Tools & Infrastructure
 
 <p align="left">
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="55" height="55"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/>
-</a>
-
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="55" height="55"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="55" height="55"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/>
-</a>
-
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-# 📌 Areas of Interest
+## 📌 Areas of Expertise
 
-✨ Artificial Intelligence  
-✨ Machine Learning  
-✨ Data Science  
-✨ Explainable AI (XAI)  
-✨ Healthcare AI  
-✨ NLP & LLMs  
-✨ Data Analytics  
-✨ Intelligent Systems  
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajendrapissar&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrapissar&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrapissar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+| Domain | Focus Areas |
+|---|---|
+| 🧠 **Deep Learning** | CNNs, RNNs, Transformers, GANs, Diffusion Models |
+| 💬 **NLP & LLMs** | Text Classification, NER, Summarization, Fine-tuning LLMs |
+| 👁️ **Computer Vision** | Object Detection, Segmentation, Medical Imaging |
+| 🔍 **Explainable AI** | SHAP, LIME, Grad-CAM, Model Interpretability |
+| 🏥 **Healthcare AI** | Diagnostic Systems, Clinical NLP, Medical Imaging Analysis |
+| 📊 **Data Science** | EDA, Feature Engineering, Statistical Modeling, Visualization |
 
 ---
 
-# 💻 Quote
+## 📊 GitHub Analytics
 
 <p align="center">
-<i>"Transforming data into intelligent solutions through AI & Machine Learning."</i>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajendrapissar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrapissar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rajendrapissar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajendrapissar&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🏆 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajendrapissar&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Transforming data into intelligent solutions through AI & Machine Learning."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" />
 </p>
