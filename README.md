@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Rajendra%20Prasad%20Issar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20MS%20in%20AI%20%26%20Machine%20Learning&descAlignY=60&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=130&section=footer" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Deep+Learning+%7C+NLP+%7C+Computer+Vision;Explainable+AI+%7C+Healthcare+AI;LLMs+%7C+Medical+Imaging+%7C+Data+Science;Open+to+Research+%26+Industry+Roles+%F0%9F%9A%80" alt="Typing SVG" />
